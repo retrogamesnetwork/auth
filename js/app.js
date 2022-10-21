@@ -1,3 +1,15 @@
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyCYgieNluU4atVEYhCcUY5GC78eqYXBYsA",
+  authDomain: "retro-games-network.firebaseapp.com",
+  databaseURL: "https://retro-games-network-default-rtdb.firebaseio.com",
+  projectId: "retro-games-network",
+  storageBucket: "retro-games-network.appspot.com",
+  messagingSenderId: "1025542945363",
+  appId: "1:1025542945363:web:c4d81a05a8a9d8809564a6",
+  measurementId: "G-K621KEQ8KF"
+};
+
 // xxxxxxxxxx Working For Sign Up Form xxxxxxxxxx
 // xxxxxxxxxx Full Name Validation xxxxxxxxxx
 function checkUserFullName(){
